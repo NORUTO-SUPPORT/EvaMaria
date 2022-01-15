@@ -32,7 +32,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://t.me/new_movies_group_2021) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -40,13 +40,13 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [LIKE THIS](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://github.com/MR-MAD-YT/EvaMaria) for more
 
 
 ## Deploy
@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/MR-MAD-YT/EvaMaria
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -105,13 +105,12 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](MOVIES CLUB🎥
+https://t.me/new_movies_group_2021)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/IAMULTROID)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-
-
+* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegramhttps://t.me/IAMULTROID
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
